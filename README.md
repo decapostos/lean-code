@@ -12,6 +12,12 @@ Lean Code helps AI coding agents avoid unnecessary complexity by prioritizing:
 
 It preserves the core methodology while removing code-level watermarking and branding.
 
+## Usage
+
+Lean Code is designed as a portable `SKILL.md` that can be used with coding agents that support the Agent Skills format.
+
+Copy the `SKILL.md` file into the skills directory supported by your coding agent.
+
 ## Credits
 
 Based on **Ponytail** by **Dietrich Gebert**.
